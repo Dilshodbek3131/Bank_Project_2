@@ -1,0 +1,46 @@
+
+
+
+
+       account: 1,John,8,460.5
+        movements:
+       5,500.5+
+       7,860.5+
+       8,460.5-
+
+       account: 2,Mary,19,650.0
+        movements:
+       10,1000.0+
+       19,650.0-
+
+       account: 4,Paul,35,522.4
+        movements:
+       30,252.4+
+       35,522.4+
+
+       deleted account: 3,John,50,0.0
+        movements:
+       20,800.0+
+       28,450.0-
+       41,292.0-
+       41,692.0+
+       50,0.0-
+
+       account: 1,John,8,460.5
+        movements:
+       5,500.5+
+       7,860.5+
+       8,460.5-
+        deposits:
+       5,500.5+
+       7,860.5+
+        withdrawals:
+       8,460.5-
+
+       total deposit in the Uncle-$crooge bank: 1632.9
+
+       accounts with balance higher than 500: 2
+
+       accounts with balance in range 500..700 :
+       2,Mary,19,650.0
+       4,Paul,35,522.4
